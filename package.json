@@ -1,0 +1,27 @@
+{
+  "name": "examen2-a01745530",
+  "version": "1.0.0",
+  "description": "Examen 2do Periodo de Aplicaciones Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloGarciaM/Exam2PGM.git"
+  },
+  "author": "Pablo Garcia Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloGarciaM/Exam2PGM/issues"
+  },
+  "homepage": "https://github.com/PabloGarciaM/Exam2PGM#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3-rc.0",
+    "sequelize": "^6.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
